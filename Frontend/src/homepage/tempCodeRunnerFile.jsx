@@ -1,0 +1,4 @@
+<Navbar/>
+      <Banner/>
+      <FreeBook/>
+      <Footer/>
